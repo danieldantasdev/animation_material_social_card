@@ -24,9 +24,9 @@
   <img width="600" src=".github/Desktop-mobile.gif">
 </p>
 
-## 📢 Visite o site
+<!-- ## 📢 Visite o site
 
-[Material-social-card](https://lobinhodev.github.io/Animation-material-social-card/).
+[Material-social-card](https://lobinhodev.github.io/Animation-material-social-card/). -->
 
 ## 🧠 Tecnologias
 
